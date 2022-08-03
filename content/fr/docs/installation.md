@@ -183,6 +183,7 @@ entre les balises `<VirtualHost>` (en remplaçant `var/www/azuriom` par l'emplac
     Options FollowSymLinks
     AllowOverride All
     Require all granted
+    DocumentRoot "/var/www/azuriom/public"
 </Directory>
 ```
 

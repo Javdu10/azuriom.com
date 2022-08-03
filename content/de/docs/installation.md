@@ -114,6 +114,7 @@ um das Umschreiben der URL zu ermöglichen:
     Options FollowSymLinks
     AllowOverride All
     Require all granted
+    DocumentRoot "/var/www/azuriom/public"
 </Directory>
 ```
 

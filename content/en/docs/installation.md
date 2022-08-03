@@ -132,6 +132,7 @@ to allow URL rewrite:
     Options FollowSymLinks
     AllowOverride All
     Require all granted
+    DocumentRoot "/var/www/azuriom/public"
 </Directory>
 ```
 

@@ -132,6 +132,7 @@ om URL-herschrijving toe te staan:
     Options FollowSymLinks
     AllowOverride All
     Require all granted
+    DocumentRoot "/var/www/azuriom/public"
 </Directory>
 ```
 
